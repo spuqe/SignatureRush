@@ -2,6 +2,8 @@
 
 This is a petition spammer designed for known petition sites. However, please note that you must be the creator of the petition, and your petition must not require email verification.
 
+Original gist I made: https://gist.github.com/spuqe/60392b17b5535d8da53a1367b0ce8295
+
 ## Usage
 
 **DISCLAIMER**: YOU NEED TO BE THE CREATOR OF THE PETITION AND YOUR PETITION MUST NOT REQUIRE EMAIL VERIFICATION
